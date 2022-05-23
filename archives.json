@@ -109,4 +109,14 @@
   "boards": ["bant", "c", "con", "e", "i", "n", "news", "out", "p", "pw", "qst", "toy", "vip", "vmg", "vp", "vst", "vt", "w", "wg", "wsr"],
   "files": ["bant", "c", "e", "i", "n", "news", "out", "p", "pw", "qst", "toy", "vip", "vmg", "vp", "vst", "vt", "w", "wg", "wsr"],
   "reports": true
+}, {
+  "uid": 37,
+  "name" : "Oldfriend Archive",
+  "domain" : "old.sage.moe",
+  "http" : true,
+  "https" : true,
+  "software": "foolfuuka",
+  "boards" : ["a", "an", "b", "c", "cgl", "ck", "cm", "co", "d", "e", "fa", "fit", "g", "gif", "h", "hc", "hr", "i", "ib", "ic", "ip", "jp", "k", "m", "mu", "n", "o", "p", "po", "r", "r9k", "s", "sp", "t", "tg", "toy", "trv", "tv", "u", "v", "w", "wg", "x", "y"],
+  "files" : [],
+  "reports": false
 }]
